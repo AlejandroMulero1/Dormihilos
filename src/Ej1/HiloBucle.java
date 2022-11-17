@@ -1,3 +1,5 @@
+package Ej1;
+
 public class HiloBucle extends Thread {
 
     @Override
